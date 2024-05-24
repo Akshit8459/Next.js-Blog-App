@@ -12,7 +12,7 @@ const Aboutpage = () => {
         <div className='w-2/3 flex flex-col justify-between px-16'>
           <h2 className="text-3xl font-bold font-mono  text-gray-600">About Agency</h2>
           <h1 className='text-5xl mt-10 font-bold px-6'>We create digital ideas that are bigger, bolder,braver and better</h1>
-          <p className='mt-10 text-lg px-6 text-gray-600'> We create digital ideas that are bigger, bolder,braver and better.We believe in good ideas flexibility and precision.We're world's Our Special team best consulting & finance solution provider.Wide range of web and software development services.</p>
+          <p className='mt-10 text-lg px-6 text-gray-600'>We create digital ideas that are bigger, bolder,braver and better.We believe in good ideas flexibility and precision.We&apos;re world&apos;s Our Special team best consulting & finance solution provider.Wide range of web and software development services.</p>
           <div className='flex flex-wrap gap-20 my-8'>
             <div className="flex flex-col flex-wrap">
               <h2 className="font-bold text-3xl ">10K+</h2>
